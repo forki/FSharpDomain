@@ -1,0 +1,23 @@
+type project
+owners
+    Mark Gray
+authors 
+    Mark Gray
+projectUrl
+    http://github.com/monkieboy/FSharpDomain
+iconUrl
+    https://raw.githubusercontent.com/monkieboy/FSharpDomain/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/monkieboy/FSharpDomain/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    f# c# ddd
+summary
+    Demonstration of F# being used in a C# project
+description
+    Demonstration of F# being used in a C# project
+
+
